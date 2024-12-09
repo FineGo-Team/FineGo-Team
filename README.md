@@ -13,12 +13,12 @@ FineGo is a smart app designed to help you manage your finances better. The app 
 Hi Everyone! We consist of 6 people and these are our members:
 | Bangkit ID | Name | Learning Path | University | LinkedIn |
 |---|---|---|---|---|
-| M284B4KX0540 | Angel Rica Siceliya | (ML) Machine Learning | Universitas Negeri Surabaya | [![linkedin-logo-920846F1F7-seeklogo com](https://github.com/user-attachments/assets/76f3fe1a-0cfc-423c-9c7e-f06b2fd97240)](https://www.linkedin.com/in/angel-rica-siceliya) |
-| M390B4KY4361 | Toshiro Frederick | (ML) Machine Learning | Universitas Prima Indonesia | [![linkedin-logo-920846F1F7-seeklogo com](https://github.com/user-attachments/assets/76f3fe1a-0cfc-423c-9c7e-f06b2fd97240)](link) |
-| M284B4KY4389 | Valentino Rossi | (ML) Machine Learning | Universitas Negeri Surabaya | [![linkedin-logo-920846F1F7-seeklogo com](https://github.com/user-attachments/assets/76f3fe1a-0cfc-423c-9c7e-f06b2fd97240)](link) |
-| C284B4KX0729 | Aulina Naharul Kristanti | (CC) Cloud Computing | Universitas Negeri Surabaya | [![linkedin-logo-920846F1F7-seeklogo com](https://github.com/user-attachments/assets/76f3fe1a-0cfc-423c-9c7e-f06b2fd97240)](www.linkedin.com/in/aulinanaharul) |
-| C284B4KY1235 | Ego Widiarto | (CC) Cloud Computing | Universitas Negeri Surabaya | [![linkedin-logo-920846F1F7-seeklogo com](https://github.com/user-attachments/assets/76f3fe1a-0cfc-423c-9c7e-f06b2fd97240)](link) |
-| A193B4KY1429 | Fathi Ananda Mas'ud | (MD) Mobile Development | Universitas Bina Sarana Informatika | [![linkedin-logo-920846F1F7-seeklogo com](https://github.com/user-attachments/assets/76f3fe1a-0cfc-423c-9c7e-f06b2fd97240)](link) |
+| M284B4KX0540 | Angel Rica Siceliya | (ML) Machine Learning | Universitas Negeri Surabaya |[LinkedIn](https://www.linkedin.com/in/angel-rica-siceliya) |
+| M390B4KY4361 | Toshiro Frederick | (ML) Machine Learning | Universitas Prima Indonesia | [LinkedIn](link) |
+| M284B4KY4389 | Valentino Rossi | (ML) Machine Learning | Universitas Negeri Surabaya | [LinkedIn](link) |
+| C284B4KX0729 | Aulina Naharul Kristanti | (CC) Cloud Computing | Universitas Negeri Surabaya | [LinkedIn](www.linkedin.com/in/aulinanaharul) |
+| C284B4KY1235 | Ego Widiarto | (CC) Cloud Computing | Universitas Negeri Surabaya |[LinkedIn](link) |
+| A193B4KY1429 | Fathi Ananda Mas'ud | (MD) Mobile Development | Universitas Bina Sarana Informatika | [LinkedIn](link) |
 
 **Documentation:**
 
