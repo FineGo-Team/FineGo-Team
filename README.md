@@ -2,7 +2,7 @@
 
 Team ID: C242-PS520
 
-![FineGO](https://github.com/user-attachments/assets/7c44f855-dcfa-4029-928f-a1eb77fd27cb)
+![FineGo - Login](https://github.com/user-attachments/assets/eff64d7d-2d06-4f5e-a5b2-1c65cea3833f)
 
 **Executive Summary/Abstract:**
 
