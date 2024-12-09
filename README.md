@@ -13,12 +13,12 @@ FineGo is a smart app designed to help you manage your finances better. The app 
 Hi Everyone! We consist of 6 people and these are our members:
 | Bangkit ID | Name | Learning Path | University | LinkedIn |
 |---|---|---|---|---|
-| M284B4KX0540 | Angel Rica Siceliya | (ML) Machine Learning | Universitas Negeri Surabaya | [Angel Rica Siceliya](https://www.linkedin.com/in/angelricasiceliya) |
-| M390B4KY4361 | Toshiro Frederick | (ML) Machine Learning | Universitas Prima Indonesia | [Toshiro Frederick](https://www.linkedin.com/in/toshirofrederick) |
-| M284B4KY4389 | Valentino Rossi | (ML) Machine Learning | Universitas Negeri Surabaya | [Valentino Rossi](https://www.linkedin.com/in/valentinorossi) |
+| M284B4KX0540 | Angel Rica Siceliya | (ML) Machine Learning | Universitas Negeri Surabaya | [LinkedIn](https://www.linkedin.com/in/angelricasiceliya) |
+| M390B4KY4361 | Toshiro Frederick | (ML) Machine Learning | Universitas Prima Indonesia | [LinkedIn](https://www.linkedin.com/in/toshirofrederick) |
+| M284B4KY4389 | Valentino Rossi | (ML) Machine Learning | Universitas Negeri Surabaya | [LinkedIn](https://www.linkedin.com/in/valentinorossi) |
 | C284B4KX0729 | Aulina Naharul Kristanti | (CC) Cloud Computing | Universitas Negeri Surabaya |[LinkedIn](https://www.linkedin.com/in/aulinanaharul) |
-| C284B4KY1235 | Ego Widiarto | (CC) Cloud Computing | Universitas Negeri Surabaya |[Ego Widiarto](https://www.linkedin.com/in/ego-widiarto-4894a3230) |
-| A193B4KY1429 | Fathi Ananda Mas'ud | (MD) Mobile Development | Universitas Bina Sarana Informatika | [Fathi Ananda Mas'ud](https://www.linkedin.com/in/fathi-ananda-masud) |
+| C284B4KY1235 | Ego Widiarto | (CC) Cloud Computing | Universitas Negeri Surabaya |[LinkedIn](https://www.linkedin.com/in/ego-widiarto-4894a3230) |
+| A193B4KY1429 | Fathi Ananda Mas'ud | (MD) Mobile Development | Universitas Bina Sarana Informatika | [LinkedIn](https://www.linkedin.com/in/fathi-ananda-masud) |
 
 ## Documentation:
 
