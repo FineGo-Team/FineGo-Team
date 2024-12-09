@@ -10,9 +10,9 @@ FineGo is a smart app designed to help you manage your finances better. The app 
 
 **Our Members**
 
-* M284B4KX0540 – Angel Rica Siceliya – Universitas Negeri Surabaya
-* M390B4KY4361 – Toshiro Frederick – Universitas Prima Indonesia
-* M284B4KY4389 – Valentino Rossi – Universitas Negeri Surabaya
-* C284B4KX0729 – Aulina Naharul Kristanti – Universitas Negeri Surabaya
-* C284B4KY1235 – Ego Widiarto – Universitas Negeri Surabaya
-* A193B4KY1429 – Fathi Ananda Mas'ud – Universitas Bina Sarana Informatika
+* (ML) M284B4KX0540 – Angel Rica Siceliya – Universitas Negeri Surabaya
+* (ML) M390B4KY4361 – Toshiro Frederick – Universitas Prima Indonesia
+* (ML) M284B4KY4389 – Valentino Rossi – Universitas Negeri Surabaya
+* (CC) C284B4KX0729 – Aulina Naharul Kristanti – Universitas Negeri Surabaya
+* (CC) C284B4KY1235 – Ego Widiarto – Universitas Negeri Surabaya
+* (MD) A193B4KY1429 – Fathi Ananda Mas'ud – Universitas Bina Sarana Informatika
