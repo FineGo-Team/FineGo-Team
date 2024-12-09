@@ -13,7 +13,7 @@ FineGo is a smart app designed to help you manage your finances better. The app 
 Hi Everyone! We consist of 6 people and these are our members:
 | Bangkit ID | Name | Learning Path | University | LinkedIn |
 |---|---|---|---|---|
-| M284B4KX0540 | Angel Rica Siceliya | (ML) Machine Learning | Universitas Negeri Surabaya | [LinkedIn](https://www.linkedin.com/in/angel-rica-siceliya) |
+| M284B4KX0540 | Angel Rica Siceliya | (ML) Machine Learning | Universitas Negeri Surabaya | [LinkedIn](www.linkedin.com/in/angelricasiceliya) |
 | M390B4KY4361 | Toshiro Frederick | (ML) Machine Learning | Universitas Prima Indonesia | [LinkedIn](link) |
 | M284B4KY4389 | Valentino Rossi | (ML) Machine Learning | Universitas Negeri Surabaya | [LinkedIn](link) | 
 | C284B4KX0729 | Aulina Naharul Kristanti | (CC) Cloud Computing | Universitas Negeri Surabaya | [LinkedIn](www.linkedin.com/in/aulinanaharul) |
