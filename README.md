@@ -1,6 +1,6 @@
-# FineGO - Optimize Your Finances
+## FineGO - Optimize Your Finances
 
-## Team ID: C242-PS520
+Team ID: C242-PS520
 
 ![FineGO](https://github.com/user-attachments/assets/7c44f855-dcfa-4029-928f-a1eb77fd27cb)
 
