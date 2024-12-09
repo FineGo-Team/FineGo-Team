@@ -16,7 +16,9 @@ Hi Everyone! We consist of 6 people and these are our members:
 | M284B4KX0540 | Angel Rica Siceliya | (ML) Machine Learning | Universitas Negeri Surabaya | [LinkedIn](www.linkedin.com/in/angelricasiceliya) |
 | M390B4KY4361 | Toshiro Frederick | (ML) Machine Learning | Universitas Prima Indonesia | [LinkedIn](link) |
 | M284B4KY4389 | Valentino Rossi | (ML) Machine Learning | Universitas Negeri Surabaya | [LinkedIn](link) | 
-| C284B4KX0729 | Aulina Naharul Kristanti | (CC) Cloud Computing | Universitas Negeri Surabaya |[Aulina Naharul Kristanti](https://www.linkedin.com/in/aulinanaharul) |
+| C284B4KX0729 | Aulina Naharul Kristanti | (CC) Cloud Computing | Universitas Negeri Surabaya |![[LinkedIn Logo]](![linkedin-logo-920846F1F7-seeklogo com](https://github.com/user-attachments/assets/d871d392-1770-4793-9bc9-36946349c26f)
+)  
+[Aulina Naharul Kristanti](https://www.linkedin.com/in/aulinanaharul) |
 | C284B4KY1235 | Ego Widiarto | (CC) Cloud Computing | Universitas Negeri Surabaya |[LinkedIn](www.linkedin.com/in/ego-widiarto-4894a3230) | 
 | A193B4KY1429 | Fathi Ananda Mas'ud | (MD) Mobile Development | Universitas Bina Sarana Informatika | [LinkedIn](link) |
 
